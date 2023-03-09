@@ -5,6 +5,6 @@ service:
     ports: 
       -8087:80
   frontend: 
-    images: front-se234-lab12
+    images: se234-lab12
     ports: 
       -8901:80
