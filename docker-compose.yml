@@ -3,7 +3,7 @@ service:
   backend:
     image: dto80/se234-lab12
     ports: 
-      -8101:80
+      -8081:80
   frontend: 
     images: se234-lab12
     ports: 
