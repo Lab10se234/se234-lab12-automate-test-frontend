@@ -7,4 +7,4 @@ service:
   frontend: 
     images: se234-lab12
     ports: 
-      -8900:80
+      -8101:80
